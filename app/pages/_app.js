@@ -4,8 +4,6 @@ import { WalletAdapterNetwork } from "@solana/wallet-adapter-base";
 import { WalletModalProvider } from "@solana/wallet-adapter-react-ui";
 import { PhantomWalletAdapter } from "@solana/wallet-adapter-wallets";
 import { ConnectionProvider, WalletProvider } from "@solana/wallet-adapter-react";
-import { useWallet } from "@solana/wallet-adapter-react";
-
 
 import "../styles/App.css";
 import "../styles/globals.css";
