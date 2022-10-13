@@ -1,6 +1,6 @@
 # buildspace Solana NFT Drop Project
 
-[Deployed Website :-](nft-drop-starter-project-ac103b.spheron.app)
+Deployed Website :- [nft-drop-starter-project-ac103b.spheron.app](nft-drop-starter-project-ac103b.spheron.app)
 ### Welcome 👋
 To get started with this course, clone this repo and follow these commands:
 
